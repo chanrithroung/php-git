@@ -37,10 +37,13 @@ cms-news/
 
 ## 🛠️ Installation Guide
 
-1. **Clone the Repository**
+1. **Push Your Code Into Remote Repositpry**
    ```sh
-   git clone https://github.com/yourusername/cms-news.git
-   cd cms-news
+    git add . # Add all file into git
+    git commit -m "your commit message" # Save change 
+    git remote add <remote-name> <your-remote-url>
+    git push -u  <remote-name> <your-branch>
+
    ```
 
 2. **Set Up the Database**
