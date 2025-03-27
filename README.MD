@@ -63,7 +63,7 @@ cms-news/
 
 | Dashboard | Article Management | Reader View |
 |-----------|--------------------|-------------|
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![Article](https://via.placeholder.com/300x200?text=Article+Management) | ![Reader](https://via.placeholder.com/300x200?text=Reader+View) |
+| ![Dashboard](preview.png) | ![Article](https://via.placeholder.com/300x200?text=Article+Management) | ![Reader](https://via.placeholder.com/300x200?text=Reader+View) |
 
 ---
 
